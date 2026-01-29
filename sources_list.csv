@@ -1,0 +1,29 @@
+﻿category,title,url
+SOP 1 深度洞察,The Information,https://www.theinformation.com/feed
+SOP 1 深度洞察,Stratechery,https://stratechery.com/feed/
+SOP 1 深度洞察,Bloomberg Tech,https://feeds.bloomberg.com/technology/news.rss
+SOP 1 深度洞察,Bloomberg Opinion (Matt Levine),https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss
+SOP 1 深度洞察,FT Tech,https://www.ft.com/technology?format=rss
+SOP 1 深度洞察,Seeking Alpha Editors' Picks,https://seekingalpha.com/tag/editors-picks.xml
+SOP 1 深度洞察,The Economist,https://www.economist.com/finance-and-economics/rss.xml
+SOP 1 深度洞察,ARK Invest,https://ark-invest.com/feed/
+SOP 1 深度洞察,东财·策略研报,rsshub搭建/eastmoney/report/strategyreport
+SOP 1 深度洞察,东财·宏观研究,rsshub搭建/eastmoney/report/macresearch
+SOP 2 势能扫描,MarketBeat Instant Alerts,https://www.marketbeat.com/rss/instant-alerts.xml
+SOP 2 势能扫描,金十数据·重要,rsshub搭建/jin10/:important?
+SOP 2 势能扫描,金十·美股,rsshub搭建/jin10/topic/424
+SOP 2 势能扫描,Bloomberg Markets,https://feeds.bloomberg.com/markets/news.rss
+SOP 2 势能扫描,FT Markets,https://www.ft.com/markets?format=rss
+SOP 2 势能扫描,财联社·热门,rsshub搭建/cls/hot
+SOP 2 势能扫描,TechCrunch,https://techcrunch.com/feed/
+SOP 2 势能扫描,The Block,rsshub搭建/theblock/category/crypto-ecosystems
+SOP 2 势能扫描,Bloomberg Crypto,https://feeds.bloomberg.com/crypto/news.rss
+辅助：区域/垂类,TechInAsia,https://www.techinasia.com/feed
+辅助：区域/垂类,Technode,https://technode.com/feed/
+辅助：区域/垂类,EU-Startups,https://www.eu-startups.com/feed/
+辅助：区域/垂类,AltAssets,https://www.altassets.net/feed
+辅助：区域/垂类,东财·券商晨报,rsshub搭建/eastmoney/report/brokerreport
+辅助：区域/垂类,MacroMicro,https://sc.macromicro.me/feed
+辅助：区域/垂类,Followin,rsshub搭建/followin/1/zh-Hans
+辅助：区域/垂类,Nvidia 官方博客,https://blogs.nvidia.com/feed/
+辅助：区域/垂类,The Verge,https://www.theverge.com/rss/index.xml

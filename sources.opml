@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+    <head>
+        <title>Yongmai OS v2.0 RSS Sources</title>
+        <dateCreated>Thu, 29 Jan 2026 04:24:50 GMT</dateCreated>
+    </head>
+    <body>
+        <outline text="SOP 1 深度洞察" title="SOP 1 深度洞察">
+            <outline type="rss" text="The Information" title="The Information" xmlUrl="https://www.theinformation.com/feed" htmlUrl="https://www.theinformation.com/feed" />
+            <outline type="rss" text="Stratechery" title="Stratechery" xmlUrl="https://stratechery.com/feed/" htmlUrl="https://stratechery.com/feed/" />
+            <outline type="rss" text="Bloomberg Tech" title="Bloomberg Tech" xmlUrl="https://feeds.bloomberg.com/technology/news.rss" htmlUrl="https://feeds.bloomberg.com/technology/news.rss" />
+            <outline type="rss" text="Bloomberg Opinion (Matt Levine)" title="Bloomberg Opinion (Matt Levine)" xmlUrl="https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss" htmlUrl="https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss" />
+            <outline type="rss" text="FT Tech" title="FT Tech" xmlUrl="https://www.ft.com/technology?format=rss" htmlUrl="https://www.ft.com/technology" />
+            <outline type="rss" text="Seeking Alpha Editors' Picks" title="Seeking Alpha Editors' Picks" xmlUrl="https://seekingalpha.com/tag/editors-picks.xml" htmlUrl="https://seekingalpha.com/tag/editors-picks.xml" />
+            <outline type="rss" text="The Economist" title="The Economist" xmlUrl="https://www.economist.com/finance-and-economics/rss.xml" htmlUrl="https://www.economist.com/finance-and-economics/rss.xml" />
+            <outline type="rss" text="ARK Invest" title="ARK Invest" xmlUrl="https://ark-invest.com/feed/" htmlUrl="https://ark-invest.com/feed/" />
+            <outline type="rss" text="东财·策略研报" title="东财·策略研报" xmlUrl="rsshub搭建/eastmoney/report/strategyreport" htmlUrl="rsshub搭建/eastmoney/report/strategyreport" />
+            <outline type="rss" text="东财·宏观研究" title="东财·宏观研究" xmlUrl="rsshub搭建/eastmoney/report/macresearch" htmlUrl="rsshub搭建/eastmoney/report/macresearch" />
+        </outline>
+        <outline text="SOP 2 势能扫描" title="SOP 2 势能扫描">
+            <outline type="rss" text="MarketBeat Instant Alerts" title="MarketBeat Instant Alerts" xmlUrl="https://www.marketbeat.com/rss/instant-alerts.xml" htmlUrl="https://www.marketbeat.com/rss/instant-alerts.xml" />
+            <outline type="rss" text="金十数据·重要" title="金十数据·重要" xmlUrl="rsshub搭建/jin10/:important?" htmlUrl="rsshub搭建/jin10/:important" />
+            <outline type="rss" text="金十·美股" title="金十·美股" xmlUrl="rsshub搭建/jin10/topic/424" htmlUrl="rsshub搭建/jin10/topic/424" />
+            <outline type="rss" text="Bloomberg Markets" title="Bloomberg Markets" xmlUrl="https://feeds.bloomberg.com/markets/news.rss" htmlUrl="https://feeds.bloomberg.com/markets/news.rss" />
+            <outline type="rss" text="FT Markets" title="FT Markets" xmlUrl="https://www.ft.com/markets?format=rss" htmlUrl="https://www.ft.com/markets" />
+            <outline type="rss" text="财联社·热门" title="财联社·热门" xmlUrl="rsshub搭建/cls/hot" htmlUrl="rsshub搭建/cls/hot" />
+            <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com/feed/" />
+            <outline type="rss" text="The Block" title="The Block" xmlUrl="rsshub搭建/theblock/category/crypto-ecosystems" htmlUrl="rsshub搭建/theblock/category/crypto-ecosystems" />
+            <outline type="rss" text="Bloomberg Crypto" title="Bloomberg Crypto" xmlUrl="https://feeds.bloomberg.com/crypto/news.rss" htmlUrl="https://feeds.bloomberg.com/crypto/news.rss" />
+        </outline>
+        <outline text="辅助：区域/垂类" title="辅助：区域/垂类">
+            <outline type="rss" text="TechInAsia" title="TechInAsia" xmlUrl="https://www.techinasia.com/feed" htmlUrl="https://www.techinasia.com/feed" />
+            <outline type="rss" text="Technode" title="Technode" xmlUrl="https://technode.com/feed/" htmlUrl="https://technode.com/feed/" />
+            <outline type="rss" text="EU-Startups" title="EU-Startups" xmlUrl="https://www.eu-startups.com/feed/" htmlUrl="https://www.eu-startups.com/feed/" />
+            <outline type="rss" text="AltAssets" title="AltAssets" xmlUrl="https://www.altassets.net/feed" htmlUrl="https://www.altassets.net/feed" />
+            <outline type="rss" text="东财·券商晨报" title="东财·券商晨报" xmlUrl="rsshub搭建/eastmoney/report/brokerreport" htmlUrl="rsshub搭建/eastmoney/report/brokerreport" />
+            <outline type="rss" text="MacroMicro" title="MacroMicro" xmlUrl="https://sc.macromicro.me/feed" htmlUrl="https://sc.macromicro.me/feed" />
+            <outline type="rss" text="Followin" title="Followin" xmlUrl="rsshub搭建/followin/1/zh-Hans" htmlUrl="rsshub搭建/followin/1/zh-Hans" />
+            <outline type="rss" text="Nvidia 官方博客" title="Nvidia 官方博客" xmlUrl="https://blogs.nvidia.com/feed/" htmlUrl="https://blogs.nvidia.com/feed/" />
+            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com/rss/index.xml" />
+        </outline>
+    </body>
+</opml>
