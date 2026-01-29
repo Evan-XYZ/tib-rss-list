@@ -1,4 +1,4 @@
-# 👁️ Yongmai OS v2.0: 全球投资情报源清单 (Poor Man's Bloomberg Terminal)
+# 👁️ Yongmai OS v2.0: 全球投资情报源清单 (indie investor's Bloomberg Terminal)
 
 这是一个开源项目，旨在提供一套经过实战验证的、高价值的全球投资信息源清单。它是我的 **"金融外骨骼" (Yongmai OS)** 系统的“眼睛”模块，负责市场信息的雷达扫描。
 
